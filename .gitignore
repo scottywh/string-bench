@@ -1,0 +1,6 @@
+# Build outputs and signing material - never commit these
+android/build/
+android/tools/
+*.keystore
+*.apk
+*.zip
